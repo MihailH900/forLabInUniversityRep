@@ -200,9 +200,9 @@ short insert(double** arr, int* size, int* capacity, int index, int numb)
 	}
 	else
 	{
-		for (int i = index; i < *(size); i++)
+		for (int i = *(size); i > index; i--)
 		{
-			*( *(arr)+i ) = *( *(arr)+i+1 );
+			*( *(arr)+i ) = *( *(arr)+i-1 );
 		}
 
 		*( *(arr)+index ) = numb;

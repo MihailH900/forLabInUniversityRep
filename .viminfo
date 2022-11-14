@@ -15,7 +15,9 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1668324888,,"wq"
+|2,0,1668437022,,"wq"
+:WQ
+|2,0,1668436881,,"WQ"
 :Wq
 |2,0,1668295316,,"Wq"
 :wqw
@@ -113,239 +115,236 @@
 |3,0,36,0,1,0,1668295651,"	"
 
 # File marks:
-'0  257  0  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,48,257,0,1668324888,"~/Khoroshaev/informatics/lab_3/array_tools.c"
-'1  1  17  ~/Khoroshaev/informatics/lab_3/task.c
-|4,49,1,17,1668324833,"~/Khoroshaev/informatics/lab_3/task.c"
-'2  85  26  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,50,85,26,1668297330,"~/Khoroshaev/informatics/lab_3/array_tools.c"
-'3  85  26  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,51,85,26,1668297330,"~/Khoroshaev/informatics/lab_3/array_tools.c"
-'4  127  10  ~/Khoroshaev/informatics/lab_3/task.c
-|4,52,127,10,1668297029,"~/Khoroshaev/informatics/lab_3/task.c"
-'5  126  10  ~/Khoroshaev/informatics/lab_3/task.c
-|4,53,126,10,1668297029,"~/Khoroshaev/informatics/lab_3/task.c"
-'6  208  9  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,54,208,9,1668296979,"~/Khoroshaev/informatics/lab_3/array_tools.c"
-'7  208  9  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,55,208,9,1668296979,"~/Khoroshaev/informatics/lab_3/array_tools.c"
-'8  208  9  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,56,208,9,1668296979,"~/Khoroshaev/informatics/lab_3/array_tools.c"
-'9  208  9  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,57,208,9,1668296979,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+'0  203  32  ~/Khoroshaev/informatics/lab_3/array_tools.c
+|4,48,203,32,1668437022,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+'1  208  26  ~/Khoroshaev/informatics/lab_3/array_tools.c
+|4,49,208,26,1668436990,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+'2  208  26  ~/Khoroshaev/informatics/lab_3/array_tools.c
+|4,50,208,26,1668436990,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+'3  203  16  ~/Khoroshaev/informatics/lab_3/array_tools.c
+|4,51,203,16,1668436885,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+'4  203  16  ~/Khoroshaev/informatics/lab_3/array_tools.c
+|4,52,203,16,1668436885,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+'5  203  16  ~/Khoroshaev/informatics/lab_3/array_tools.c
+|4,53,203,16,1668436885,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+'6  1  0  ~/Khoroshaev/informatics/lab_3/array_tools
+|4,54,1,0,1668436825,"~/Khoroshaev/informatics/lab_3/array_tools"
+'7  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,55,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+'8  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,56,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+'9  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,57,4,17,1668436586,"~/Khoroshaev/informatics/lab_3/task.c"
 
 # Jumplist (newest first):
+-'  203  32  ~/Khoroshaev/informatics/lab_3/array_tools.c
+|4,39,203,32,1668437022,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+-'  208  26  ~/Khoroshaev/informatics/lab_3/array_tools.c
+|4,39,208,26,1668437008,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+-'  208  26  ~/Khoroshaev/informatics/lab_3/array_tools.c
+|4,39,208,26,1668436990,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+-'  203  16  ~/Khoroshaev/informatics/lab_3/array_tools.c
+|4,39,203,16,1668436936,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+-'  203  16  ~/Khoroshaev/informatics/lab_3/array_tools.c
+|4,39,203,16,1668436885,"~/Khoroshaev/informatics/lab_3/array_tools.c"
 -'  257  0  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,257,0,1668324888,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  85  26  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,85,26,1668324849,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  1  17  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,1,17,1668324833,"~/Khoroshaev/informatics/lab_3/task.c"
--'  1  17  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,1,17,1668324833,"~/Khoroshaev/informatics/lab_3/task.c"
--'  127  10  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,127,10,1668324775,"~/Khoroshaev/informatics/lab_3/task.c"
--'  127  10  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,127,10,1668324775,"~/Khoroshaev/informatics/lab_3/task.c"
--'  85  26  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,85,26,1668297330,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  85  26  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,85,26,1668297330,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  208  9  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,208,9,1668297035,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  208  9  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,208,9,1668297035,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  208  9  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,208,9,1668297035,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  126  10  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,126,10,1668297029,"~/Khoroshaev/informatics/lab_3/task.c"
--'  126  10  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,126,10,1668297029,"~/Khoroshaev/informatics/lab_3/task.c"
--'  126  10  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,126,10,1668297029,"~/Khoroshaev/informatics/lab_3/task.c"
--'  126  10  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,126,10,1668297029,"~/Khoroshaev/informatics/lab_3/task.c"
--'  114  23  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,114,23,1668297016,"~/Khoroshaev/informatics/lab_3/task.c"
--'  114  23  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,114,23,1668297016,"~/Khoroshaev/informatics/lab_3/task.c"
--'  114  23  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,114,23,1668297016,"~/Khoroshaev/informatics/lab_3/task.c"
--'  114  23  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,114,23,1668297016,"~/Khoroshaev/informatics/lab_3/task.c"
--'  114  23  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,114,23,1668297016,"~/Khoroshaev/informatics/lab_3/task.c"
--'  114  23  ~/Khoroshaev/informatics/lab_3/task.c
-|4,39,114,23,1668297016,"~/Khoroshaev/informatics/lab_3/task.c"
--'  208  9  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,208,9,1668296979,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  208  9  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,208,9,1668296979,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  208  9  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,208,9,1668296979,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  208  9  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,208,9,1668296979,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  239  7  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,239,7,1668296908,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  239  7  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,239,7,1668296908,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  239  7  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,239,7,1668296908,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  239  7  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,239,7,1668296908,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  239  7  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,239,7,1668296908,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  239  7  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,239,7,1668296908,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  239  7  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,239,7,1668296908,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  239  7  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,239,7,1668296855,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  239  7  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,239,7,1668296855,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  239  7  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,239,7,1668296855,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  239  7  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,239,7,1668296855,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  206  2  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,206,2,1668296816,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  206  2  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,206,2,1668296816,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  206  2  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,206,2,1668296816,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  206  2  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,206,2,1668296816,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  206  2  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,206,2,1668296816,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  206  2  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,206,2,1668296816,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  206  2  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,206,2,1668296816,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  206  2  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,206,2,1668296816,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  206  2  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,206,2,1668296816,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  206  2  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,206,2,1668296816,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  206  2  ~/Khoroshaev/informatics/lab_3/array_tools.c
-|4,39,206,2,1668296816,"~/Khoroshaev/informatics/lab_3/array_tools.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
--'  1  0  ~/Khoroshaev/informatics/lab_3/array_removed.c
-|4,39,1,0,1668296806,"~/Khoroshaev/informatics/lab_3/array_removed.c"
+|4,39,257,0,1668436844,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+-'  257  0  ~/Khoroshaev/informatics/lab_3/array_tools.c
+|4,39,257,0,1668436844,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+-'  257  0  ~/Khoroshaev/informatics/lab_3/array_tools.c
+|4,39,257,0,1668436844,"~/Khoroshaev/informatics/lab_3/array_tools.c"
+-'  1  0  ~/Khoroshaev/informatics/lab_3/array_tools
+|4,39,1,0,1668436825,"~/Khoroshaev/informatics/lab_3/array_tools"
+-'  1  0  ~/Khoroshaev/informatics/lab_3/array_tools
+|4,39,1,0,1668436825,"~/Khoroshaev/informatics/lab_3/array_tools"
+-'  1  0  ~/Khoroshaev/informatics/lab_3/array_tools
+|4,39,1,0,1668436825,"~/Khoroshaev/informatics/lab_3/array_tools"
+-'  1  0  ~/Khoroshaev/informatics/lab_3/array_tools
+|4,39,1,0,1668436825,"~/Khoroshaev/informatics/lab_3/array_tools"
+-'  1  0  ~/Khoroshaev/informatics/lab_3/array_tools
+|4,39,1,0,1668436825,"~/Khoroshaev/informatics/lab_3/array_tools"
+-'  1  0  ~/Khoroshaev/informatics/lab_3/array_tools
+|4,39,1,0,1668436825,"~/Khoroshaev/informatics/lab_3/array_tools"
+-'  1  0  ~/Khoroshaev/informatics/lab_3/array_tools
+|4,39,1,0,1668436825,"~/Khoroshaev/informatics/lab_3/array_tools"
+-'  1  0  ~/Khoroshaev/informatics/lab_3/array_tools
+|4,39,1,0,1668436825,"~/Khoroshaev/informatics/lab_3/array_tools"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  46  12  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,46,12,1668436808,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  4  17  ~/Khoroshaev/informatics/lab_3/task.c
+|4,39,4,17,1668436603,"~/Khoroshaev/informatics/lab_3/task.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  16  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,16,1,1668436601,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
+-'  28  1  ~/Khoroshaev/informatics/lab_3/input_check.c
+|4,39,28,1,1668436596,"~/Khoroshaev/informatics/lab_3/input_check.c"
 
 # History of marks within files (newest to oldest):
 
 > ~/Khoroshaev/informatics/lab_3/array_tools.c
-	*	1668324887	0
-	"	257	0
-	^	85	27
-	.	191	26
-	+	11	5
-	+	9	3
-	+	22	0
+	*	1668437022	0
+	"	203	32
+	^	203	33
+	.	203	32
 	+	9	5
 	+	70	12
 	+	81	25
@@ -443,10 +442,17 @@
 	+	205	32
 	+	196	7
 	+	191	26
+	+	203	35
+	+	205	31
+	+	203	32
+
+> ~/Khoroshaev/informatics/lab_3/array_tools
+	*	1668436824	0
+	"	1	0
 
 > ~/Khoroshaev/informatics/lab_3/task.c
-	*	1668324826	0
-	"	1	17
+	*	1668436807	0
+	"	46	12
 	^	1	18
 	.	135	18
 	+	20	1
@@ -550,42 +556,9 @@
 	+	136	0
 	+	135	18
 
-> ~/Khoroshaev/informatics/lab_3/array_removed.c
-	*	1668296805	0
-	"	1	0
-
-> ~/Khoroshaev/informatics/lab_3/array_tools.h
-	*	1668296421	0
-	"	7	31
-	^	7	32
-	.	7	31
-	+	1	21
-	+	6	21
-	+	4	0
-	+	10	66
-	+	10	0
-	+	11	16
-	+	10	17
-	+	9	19
-	+	8	21
-	+	7	29
-	+	6	30
-	+	5	34
-	+	4	36
-	+	8	3
-	+	4	48
-	+	9	34
-	+	4	38
-	+	6	32
-	+	10	4
-	+	11	4
-	+	8	21
-	+	11	19
-	+	7	31
-
 > ~/Khoroshaev/informatics/lab_3/input_check.c
-	*	1668295217	0
-	"	28	1
+	*	1668436600	0
+	"	16	1
 	^	11	19
 	.	11	18
 	+	1	105
@@ -634,9 +607,38 @@
 	+	13	41
 	+	11	18
 
-> ~/Khoroshaev/informatics/lab_3/array_tools
-	*	1668292249	0
+> ~/Khoroshaev/informatics/lab_3/array_removed.c
+	*	1668296805	0
 	"	1	0
+
+> ~/Khoroshaev/informatics/lab_3/array_tools.h
+	*	1668296421	0
+	"	7	31
+	^	7	32
+	.	7	31
+	+	1	21
+	+	6	21
+	+	4	0
+	+	10	66
+	+	10	0
+	+	11	16
+	+	10	17
+	+	9	19
+	+	8	21
+	+	7	29
+	+	6	30
+	+	5	34
+	+	4	36
+	+	8	3
+	+	4	48
+	+	9	34
+	+	4	38
+	+	6	32
+	+	10	4
+	+	11	4
+	+	8	21
+	+	11	19
+	+	7	31
 
 > ~/Khoroshaev/informatics/lab_3/array_tools,c
 	*	1668292184	0

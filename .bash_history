@@ -1,40 +1,3 @@
-cd ..
-ls
-cd home_work_3
-ls
-vim task.c
-cd ..
-cd lab_3
-vim array_tools.h
-vim array_tools.c
-clear
-gcc -c task.c
-gcc -c array_tools.c
-gcc -c task.c
-vim task_c
-;s
-ls
-rm task_c
-vim task.c
-cd ..
-cd home_work_3
-vim task.c
-cd ..
-cd lab_3
-vim task.c
-celar
-clear
-gcc -c array_tools.c
-gcc -c task.c
-gcc -o task input_check.o array_tools.o task.o
-./task
-vim task.c
-vim task.c
-vim array_tools.c
-vim task.c
-gcc -c array_tools.c
-gcc -c task.c
-gcc -o task input_check.o array_tools.o task.o
 ./task
 vim input_check.c
 cleaer
@@ -498,3 +461,40 @@ gcc -c array_tools.c
 gcc -c task.c
 gcc -lm -o task input_check.o array_tools.o task.o
 ./task
+git init
+git add .
+git commit -m "lab_3 add"
+git remote add origin git@github.com:MihailH900/forLabInUniversityRep.git
+git push origin master
+git push origin master
+exit
+ls
+cd Khoroshaev
+ls
+cd informatics
+ls
+cd lab_3
+vim task.c
+ls
+vim input_check.c
+vim task.c
+vim array_tools
+rm array_tools
+ls
+vim array_tools.c
+./task
+vim array_tools.c
+ls
+gcc -c array_tools.c
+vim array_tools.c
+clear
+gcc -c array_tools.c
+gcc -c task.c
+gcc -lm -o task input_check.o array_tools.o task.o
+./task
+git init
+cd ..
+cd ..
+cd ..
+git init
+exit
