@@ -24,6 +24,9 @@ int main()
 		printf("Shutdown");
 		return 0;
 	}
+
+	double* deletedElementsArr = NULL;
+	int deletedElementsArrSize = 0, deletedElementsArrCapacity = 0;
 	
 	printf("\n");
 	printf("Now the array is initialized with zeroes\n");
@@ -109,11 +112,18 @@ int main()
 		}
 		else if (c == 4)
 		{
-			int res = transform(&arr, &size, &capacity);
+			int res = transform(&arr, &deletedElementsArr, &size, &capacity, &deletedElementsArrSize, &deletedElementsArrCapacity);
 			
-			printf("%d\n", size);
-			printf("\nRemoved %d elements\n", res);
-			printf("\n");
+			if (res == -1)
+			{
+				printf("\nAn eroor in heap has occurred\n");
+				return 0;
+			}
+			else
+			{
+				printf("\nRemoved %d elements\n", res);
+				printf("\n");
+			}
 		}
 		else if (c == 5)
 		{
@@ -121,9 +131,16 @@ int main()
 			printf("\n");
 			printf("\n");
 		}
+		else if (c == 6)
+		{
+			printArr(deletedElementsArr, deletedElementsArrSize);
+			printf("\n");
+			printf("\n");
+		}
 		else
 		{
 			free(arr);
+			free(deletedElementsArr);
 			printf("Goodbye");
 			return 0;
 		}
@@ -132,6 +149,7 @@ int main()
 	}
 	
 	free(arr);
+	free(deletedElementsArr);
 	printf("Goodbye");
 
 	return 0;
@@ -144,6 +162,7 @@ void printMenu()
 	printf("3: erase array elem\n");
 	printf("4: transfom array\n");
 	printf("5: print array\n");
+	printf("6: print arr where we can see deleted numbs\n");
 	printf("other input: exit the program\n");
 	printf("\n");
 	printf("Input something: ");

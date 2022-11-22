@@ -58,6 +58,7 @@ short initializeElementInArr(double* arr, int size)
 short insertElementInArr(double** arr, int* size, int* capacity)
 {
 	int index;
+	printf("If your input is size of arr - numb will be added to the end\n");
 	printf("Input the index of the position, wich you want to insert: ");
 	
 	int c = getCorrectTypeOfIntegerNumb(&index);
@@ -81,6 +82,8 @@ short insertElementInArr(double** arr, int* size, int* capacity)
 	{
 		return -2;
 	}
+
+	printf("numb is: %lf\n", numb);
 
 	c = insert(arr, size, capacity, index, numb);
 		
@@ -111,48 +114,97 @@ short eraseElementInArr(double** arr, int* size, int* capacity)
 	return c;
 }
 
-int transform(double** arr, int* size, int* capacity)
+int transform(double** arr, double** deletedElementsArr, int* size, int* capacity, int* deletedElementsArrSize, int* deletedElementsArrCapacity)
 {
 	int c = 0;
 
+	int* indexes = NULL;
+	int helpSize = 0;
 	for (int i = 0; i < *size; i++)
 	{
 		double fractPart, intPart;
 		fractPart = modf(*( *(arr)+i ), &intPart);
 
-		int equalIntPart = (int)(intPart);
+		long long int equalIntPart = (long long int)(intPart);
 		while (equalIntPart > 0)
 		{
-			if (equalIntPart % 10 == 9)
+			if (equalIntPart % 10 != 0)
 			{
-				c++;
-				int k = erase(arr, size, capacity, i);
-				if (k == 0)
+				if (equalIntPart % 10 == 9)
 				{
-					return -1;
-				}
+					short k = insert(deletedElementsArr, deletedElementsArrSize, deletedElementsArrCapacity, *deletedElementsArrSize, *(*arr+i));
 
-				break;
+					if (k == -1)
+					{
+						return -1;
+					}
+					
+					indexes = (int*) realloc(indexes, (helpSize+1) * sizeof(int));
+
+					c++;
+					helpSize++;
+
+					*(indexes+helpSize-1) = i;
+
+					break;
+				}
+				else
+				{
+					break;
+				}
 			}
+
 			equalIntPart /= 10;
 		}
 
 		while (fractPart - (int)(fractPart) != 0)
 		{
 			fractPart *= 10;
-			if ( fmod(fractPart, 10) == 9)
+			if ( fmod(fractPart, 10) != 0)
 			{
-				c++;
-				int k =  erase(arr, size, capacity, i);
-				if (k == 0)
+				if ( fmod(fractPart, 10) == 9)
 				{
-					return -1;
-				}
+					
+					short k = insert(deletedElementsArr, deletedElementsArrSize, deletedElementsArrCapacity, *deletedElementsArrSize, *(*arr+i));
 
-				break;
+					if (k == -1)
+					{
+						return -1;
+					}
+
+					
+					indexes = (int*) realloc(indexes, (helpSize+1) * sizeof(int));
+
+					c++;
+					helpSize++;
+
+					*(indexes+helpSize-1) = i;
+
+					break;
+
+				}
+				else
+				{
+					break;
+				}
 			}
 		}
 	}
+
+	int count = 0;
+	for (int i = 0; i < helpSize; i++)
+	{
+		short a = erase(arr, size, capacity, *(indexes+i-count));
+		if (a == -1)
+		{
+			return -1;
+		}
+
+		count++;
+	}
+
+	free(indexes);
+	indexes = NULL;
 
 	return c;
 }
@@ -165,15 +217,26 @@ void printArr(double* arr, int size)
 	}
 }
 
-short insert(double** arr, int* size, int* capacity, int index, int numb)
+short insert(double** arr, int* size, int* capacity, int index, double numb)
 {
 	if ( *(size) == *(capacity))
 	{
-		double* p = (double*) malloc( *(size)*2 * sizeof(double));
+		double* p = NULL;
+
+		if ( *(capacity) == 0 )
+		{
+			p = (double*) malloc(1*sizeof(double));
+			*capacity += 1;
+		}
+		else
+		{
+			p = (double*) malloc( *(size)*2 * sizeof(double));
+			*capacity *= 2;
+		}
 
 		if (p == NULL)
 		{
-			return 0;
+			return -1;
 		}
 
 		for (int i = 0; i < *(size)+1; i++)
@@ -221,7 +284,7 @@ short erase(double** arr, int* size, int* capacity, int index)
 
 		if (p == NULL)
 		{
-			return 0;
+			return -1;
 		}
 
 		for (int i = 0; i < *(size) - 1; i++)
