@@ -17,7 +17,7 @@ int main()
 	}
 
 	double* arr = NULL;
-	short k = arrayInitializationOfVal(&arr, size, &capacity, 0);
+	short k = arrayInitializationOfVal(&arr, size, &capacity, 0.0);
 
 	if (k != 1)
 	{

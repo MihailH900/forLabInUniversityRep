@@ -4,7 +4,7 @@
 #include "input_check.h"
 #include "array_tools.h"
 
-short arrayInitializationOfVal(double** arr, int size, int* capacity, int numb)
+short arrayInitializationOfVal(double** arr, int size, int* capacity, double numb)
 {
 	*arr = (double*) malloc(size * sizeof(double));
 
@@ -141,6 +141,11 @@ int transform(double** arr, double** deletedElementsArr, int* size, int* capacit
 					
 					indexes = (int*) realloc(indexes, (helpSize+1) * sizeof(int));
 
+					if (indexes == NULL)
+					{
+						return -1;
+					}
+
 					c++;
 					helpSize++;
 
@@ -174,6 +179,11 @@ int transform(double** arr, double** deletedElementsArr, int* size, int* capacit
 
 					
 					indexes = (int*) realloc(indexes, (helpSize+1) * sizeof(int));
+
+					if (indexes == NULL)
+					{
+						return -1;
+					}
 
 					c++;
 					helpSize++;

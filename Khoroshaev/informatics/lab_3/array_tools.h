@@ -1,7 +1,7 @@
 #ifndef ARRAY_TOOLS_H
 #define ARRAY_TOOLS_H
 
-short arrayInitializationOfVal(double** arr, int size, int *capacity, int numb);
+short arrayInitializationOfVal(double** arr, int size, int *capacity, double numb);
 short initializeElementInArr(double* arr, int size);
 short insertElementInArr(double** arr, int* size, int* capacity);
 short eraseElementInArr(double** arr, int* size, int* capacity);
