@@ -139,18 +139,11 @@ int transform(double** arr, double** deletedElementsArr, int* size, int* capacit
 						return -1;
 					}
 					
-					indexes = (int*) realloc(indexes, (helpSize+1) * sizeof(int));
-
-					if (indexes == NULL)
+					k = insertInIndexes(&indexes, &helpSize, i, &c);
+					if (k == -1)
 					{
 						return -1;
 					}
-
-					c++;
-					helpSize++;
-
-					*(indexes+helpSize-1) = i;
-
 					break;
 				}
 				else
@@ -177,21 +170,12 @@ int transform(double** arr, double** deletedElementsArr, int* size, int* capacit
 						return -1;
 					}
 
-					
-					indexes = (int*) realloc(indexes, (helpSize+1) * sizeof(int));
-
-					if (indexes == NULL)
+					k = insertInIndexes(&indexes, &helpSize, i, &c);
+					if (k == -1)
 					{
 						return -1;
 					}
-
-					c++;
-					helpSize++;
-
-					*(indexes+helpSize-1) = i;
-
 					break;
-
 				}
 				else
 				{
@@ -217,6 +201,24 @@ int transform(double** arr, double** deletedElementsArr, int* size, int* capacit
 	indexes = NULL;
 
 	return c;
+}
+
+short insertInIndexes(int** indexes, int* size, int numb, int* c)
+{
+	
+	*indexes = (int*) realloc(*indexes, (*size+1) * sizeof(int));
+
+	if (*indexes == NULL)
+	{
+		return -1;
+	}
+
+	(*c)++;
+	(*size)++;
+
+	*(*indexes+*size-1) = numb;
+	return 1;
+
 }
 
 void printArr(double* arr, int size)
