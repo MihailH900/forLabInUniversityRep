@@ -1,500 +1,500 @@
-gcc -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-clear
-exit
-NzPHkatL66
-ls
-cd Khoroshaev
-cd informatics
-ls
-cd lab_4
-ls
-vim task.c
-ls
-clear
-ls
-gcc -c task.c
-vim task.c
-clear
-gcc -c task.c
-vim task.c
-clear
-gcc -c task.c
-vim task.c
-clear
-vim my_string.c
-vim my_string.h
-gcc -c task.c
-gcc -DFLAG=1 -o task my_string.o task.o
-vim task.c
-gcc -DFLAG=0 -o task my_string.o task.o
-./task
-gcc -DFLAG=1 -o task my_string.o task.o
-./task
-vim task.c
-clear
-gcc -c task.c
-gcc -DFLAG=1 -o task my_string.o task.o
-./task
-vim task.c
-gcc -DFLAG=1 -c task.c
-gcc -DFLAG=0 -c task.c
-clear
-vim my_string.c
-exit
-ls
-cd Khoroshaev
-cd informatics
-ls
-cd lab_$
-cd lab_4
-ls
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-xit
-exit
-cd Khoroshaev
-cd informatics
-ls
-cd lab_4
-ls
-vim my_string.c
-vim my_string.h
-vim my_string.c
-vim my_string.h
-clear
-vim my_string.c
-gcc -c my_string.c
-vim my_string.c
-vim my_string.h
-gcc -c my_string.c
-vim my_string.c
-gcc -c my_string.c
-vim my_string.c
-vim my_string.c
-gcc -c my_string.c
-clear
-gcc -DFLAG=1 -c task.c
-vim my_string.c
-vim my_string.h
-vim my_string.c
-vim my_string.h
-gcc -c my_string.c
-vim my_string.c
-vim my_string.h
-gcc -c my_string.c
-vim my_string.h
-vim my_string.c
-clear
-gcc -c my_string.c
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-valgrind ./task
-vim my_string.c
-clear
-gcc -DFLAG=1 -c task.c
-./task
-gcc -o task my_string.o task.o
-./task
-vim my_string.c
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim my_string.c
-clear
-gcc -c my_string.c
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-valgrind ./task
-vim task.c
-cler
-clear
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-vim my_string.c
-clear
-gcc -c my_string.c
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-valgrind ./task
-clear
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-vim my_string.c
-vim my_string.h
-vim my_string.c
-gcc -c my_string.c
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-vim task.c
-exit
-cd Khoroshaev
-cd informatics
-ls
-cd lab_4
-vim task.c
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-clear
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-clear
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-clear
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-valgrind ./task
-vo, task.c
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-valgrind ./task
-vim task.c
-clear
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-vim task.c
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-gcc -DFLAG=0 -c task.c
-vim task.c
-gcc -DFLAG=0 -c task.c
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-clear
-valgrind ./task
-vim task.c
-clear
-vim task.c
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-valgrind ./task
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-clear
-valgrind ./task
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-vim task.c
-gcc -DFLAG=0 -c task.c
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-clear
-vim task.c
-vim my_string.c
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vin task.c
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-vim tsak.c
-rm tsak.c
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-./task
-clear
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-gcc -DFLAG=0 -c task.c
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-wq
-vim task.c
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-clear
-gcc -DFLAG=0 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-ls
-vim my_string.c
-vim task.c
-gcc -DFLAG=1 -c task.c
-vim task.c
-gcc -DFLAG=1 -c task.c
-gcc -o task my_string.o task.o
-valgrind ./task
-vim task.c
-vim my_string.c
-clear
-exit
-ls
-cd Khoroshaev
-lsa
-ls
-cd informatics
-ls
-cd lab_4
-ls
-my_string.c
-vim my_string.c
-exit
-ls
-cd Khoroshaev
-ls
-cd informatics
-ls
-cd lab_$
-cd lab_4
-ls
-cd my_string.c
-vim my_string.c
-ls
-ls -a
-rm .my_string.c.swp
-vim my_string.c
-ls
-cd task.c
-vim task.c
-exit
-ls
-cd Khoroshaev
-ls
-cd informatics
-ls
-mkdir lab_5
-mkdir lab_6
-ls
-cd lab_3
-ls
-vim array_tools.c
-ls
-vim array_tools.h
-gcc -c array_tools.c
-vim array_tools.c
-vim array_tools.c
-clear
-gcc -c array_tools.c
-ls
-ls
-cd ..
-ls
-cd lab_5
+vim task_1.
+rm task_1.
 vim task_1.c
 vim task_2.c
-vim sort.h
-vim sort.c
-vim sort.h
 clear
-vim sort.c
+ls
+gcc -c task_1.c
+vim task_1.c
+gcc -c task_1.c
+vim task_1.c
+c;ear
+clear
+gcc -c task_1.c
+vim task_1.c
+clear
+gcc -c task_1.c
+vim task_1.c
+ls
+vim car.h
+vim car.c
+vim file_processing.c
+vim car.c
+vim car.h
+grep 'car' -P -R -I -l .* | xargs sed -i 
+grep 'car' -P -R -I -l .* | xargs sed -i 's/Car' 
+grep 'car' -P -R -I -l .* | xargs sed -i 'Car' 
+clear
+grep -lr -e 'car' . | xargs sed -i 's/car/Car/g'
+ls
+vim car.h
+vim car.c
+vim file_processing.c
+vim file_processing.h
+vim sort.h
+vim task_1.c
+vim car.c
+vim task_1.c
+clear
+ls
+ls
+gcc -c task_1.c
+vim task_1.c
+gcc -c task_1.c
+vim Car.h
+rm Car.h
+vim car.h
+file_processing.h
+vim file_processing.h
+gcc -c task_1.c
 ls
 cd Khoroshaev
 ls
 cd informatics
 ls
-cd lab_$
-cd lab_4
+cd lab_5
 ls
-vim my_string.c
+gcc -c task_1.c
+vim car.h
+clear
+gcc -c task_1.c
+ls
+gcc -c car.c
+gcc -c file_processing.c
+gcc -c sort.c
+vim task_2.c
+vim task_2.c
+vim task_1.c
+vim task_2.c
+exit
+cd Khoroshaev
+cd informatics
+ls
+cd lab_5
+ls
+vim task_2.c
+clear
+gcc -c task_2.c
+vim task.c
+rm task.c
+vim task_2.c
+clear
+gcc -c task_2.c
+vim task_2.c
+clear
+gcc -c task_2.c
+vim task_2.c
+clear
+gcc -c task_2.c
+vim task_2.c
+clear
+gcc -c task_2.c
+vim task_2.c
+cleare
+clear
+gcc -c task_2.c
+vim task_2.c
+clear
+gcc -c task_2.c
+gcc -o task_2 task_2.o car.o file_processing.o sort.o
+ls
+valgrind ./task_2 -f numb -s 2 -r 0 
+ls
+vim task_2.c
+./task_2 -f numb -s 2 -r 0 1 10
+vim task_2.c
+clear
+valgrind ./task_2 -f numb -s 2 -r 0 1 10
+clear
+./task_2 -f numb -s 2 -r 0 1 10
+valgrind ./task_2 -f numb -s 2 -r 0 1 10
+./task_2 -f numb -s 2 -r 0 1 10
+vim task_2.c
+ls
+gcc -c car.c
+gcc -c file_processing.c
+gcc -c sort.c
+gcc -c task_2.c
+gcc -o task_2 task_2.o car.o file_processing.o sort.o
+./task_2 -f numb -s 2 -r 0 10 1
+valgrind ./task_2 -f numb -s 2 -r 0 10 1
+valgrind ./task_2 -f numb -s 2 -r 0 10 2
+./task_2 -f numb -s 2 -r 0 10 2
+./task_2 -f numb -s 2 -r 0 10 10
+./task_2 -f numb -s 2 -r 0 1 10
+vim task_2.c
+clear
+./task_2 -f numb -s 2 -r 0 1 1
+./task_2 -f numb -s 2 -r 0 1 2
+vim task_2.c
+gcc -c task_2.c
+gcc -o task_2 task_2.o car.o file_processing.o sort.o
+./task_2 -f numb -s 2 -r 0 1 2
+vim task_2.c
+clear
+gcc -c task_2.c
+gcc -o task_2 task_2.o car.o file_processing.o sort.o
+./task_2 -f numb -s 2 -r 0 1 2
+vim task_2.c
+gcc -c task_2.c
+gcc -o task_2 task_2.o car.o file_processing.o sort.o
+./task_2 -f numb -s 2 -r 0 1 2
+vim task_2.c
+clear
+gcc -c task_2.c
+gcc -o task_2 task_2.o car.o file_processing.o sort.o
+./task_2 -f numb -s 2 -r 0 1 2
+vim task_2.c
+vim task_2.c
+gcc -c task_2.c
+gcc -o task_2 task_2.o car.o file_processing.o sort.o
+./task_2 -f numb -s 2 -r 0 1 2
+vim task_2.c
+clear
+gcc -c task_2.c
+gcc -o task_2 task_2.o car.o file_processing.o sort.o
+./task_2 -f numb -s 2 -r 0 1 2
+vim task_2.c
+clear
+gcc -c task_2.c
+gcc -o task_2 task_2.o car.o file_processing.o sort.o
+ls
+cd Khoroshaev
+cd informatics
+cd lab_5
+ls
+./task_2 -f numb -s 2 -r 0 1 2
+./task_2 -f numb -s 2 -r 0 1 2
+./task_2 -f numb -s 2 -r 0 1 2
+./task_2 -f numb -s 2 -r 0 1 2
+./task_2 -f numb -s 1 -r 0 1 2
+./task_2 -f numb -s 1 -r 0 1 2
+./task_2 -f numb -s 1 -r 0 1 2
+./task_2 -f numb -s 1 -r 0 1 2
+./task_2 -f numb -s 3 -r 0 1 2
+./task_2 -f numb -s 3 -r 0 1 2
+./task_2 -f numb -s 3 -r 0 1 2
+clear
+ls
+vim car.c
+vim car.h
+ls
+vim file_processing.c
+vim file_processing.c
+vim file_processing.h
+ls
+vim sort.c
+vim task_1.c
+vim task_2.c
+cleaer
+clear
+cd ..
+cd lab_6
+ls
+vim list.h
+vim list.c
+clear
+exit
+cd Khoroshaev
+cd informatics
+cd lab_6
+ls
+vim list.c
+vim list.h
+vim task.c
+ls
+gcc -c list.c
+gcc -c task.c
+gcc -o task task.o list.o
+./task
+vim list.c
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+./task
+vim task.c
+clear
+gcc -c task.c
+gcc -o task task.o list.o
+./task
+vim task.c
+vim task.c
+clear
+valgrind ./task
+vim task.c
+valgrind ./task
+vim task.c
+clear
+vim list.c
+clear
+gcc -c list.c
+vim list.c
+clear
+gcc -c list.c
+gcc -c task.c
+gcc -o task task.o list.o
+valgrind ./task
+vim task.c
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim task.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim task.c
+vim list.c
+clear
+gcc -c task.c
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+valgrind ./task
+vim task.c
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim t ask.c
+rm t
+ls
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+./task
+vim task.c
+vim list.c
+gcc -c list.c
+gcc -o task task.o list.o
+./task
+vim list.c
+gcc -c list.c
+gcc -o task task.o list.o
+./task
+vim task.c
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+/task
+./task
+vim task.c
+vim list.c
+gcc -c list.c
+gcc -o task task.o list.o
+/task
+./task
+vim list.c
+gcc -c list.c
+gcc -o task task.o list.o
+./task
+vim task.c
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+./task
+vim list.c
+cleaer
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+vim list.c
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+celar
+clear
+ls
+gcc -c list.c
+gcc -o task task.o list.o
+vim list.c
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+c;ear
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+vim list.c
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+clear
+gcc -c list.c
+valgrind ./task
+vim list.c
+clear
+gcc -c list.c
+gcc -o task task.o list.o
+valgrind ./task
+valgrind ./task
+exit
+ls
+cd Khoroshaev
+cd informatics
+cd lab_5
+ls
+vim task_1.c
+exit
+cd Khoroshaev
+cd informatics
+ls
+cd lab_5
+ls
+ls
+valgrind ./task_1 -f numb -s 3 -r 0 in out
+vim in
+vim out
+rm out
+valgrind ./task_1 -f numb -s 3 -r 0 in out
+vim out
+rm out
+clear
+valgrind ./task_1 -f numb -s 1 -r 0 in out
+valgrind ./task_1 -f numb -s 2 -r 0 in out
+vim sort.c
+cd ..
+clear
+cd lab_5
+ls
+cd ..
+cd lab_6
+ls
+valgrind ./task
+vim list.c
+list.h
+vim list.h
+vim list.h
+clear
+exit
