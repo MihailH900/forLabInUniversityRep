@@ -1,73 +1,3 @@
-vim task_1.
-rm task_1.
-vim task_1.c
-vim task_2.c
-clear
-ls
-gcc -c task_1.c
-vim task_1.c
-gcc -c task_1.c
-vim task_1.c
-c;ear
-clear
-gcc -c task_1.c
-vim task_1.c
-clear
-gcc -c task_1.c
-vim task_1.c
-ls
-vim car.h
-vim car.c
-vim file_processing.c
-vim car.c
-vim car.h
-grep 'car' -P -R -I -l .* | xargs sed -i 
-grep 'car' -P -R -I -l .* | xargs sed -i 's/Car' 
-grep 'car' -P -R -I -l .* | xargs sed -i 'Car' 
-clear
-grep -lr -e 'car' . | xargs sed -i 's/car/Car/g'
-ls
-vim car.h
-vim car.c
-vim file_processing.c
-vim file_processing.h
-vim sort.h
-vim task_1.c
-vim car.c
-vim task_1.c
-clear
-ls
-ls
-gcc -c task_1.c
-vim task_1.c
-gcc -c task_1.c
-vim Car.h
-rm Car.h
-vim car.h
-file_processing.h
-vim file_processing.h
-gcc -c task_1.c
-ls
-cd Khoroshaev
-ls
-cd informatics
-ls
-cd lab_5
-ls
-gcc -c task_1.c
-vim car.h
-clear
-gcc -c task_1.c
-ls
-gcc -c car.c
-gcc -c file_processing.c
-gcc -c sort.c
-vim task_2.c
-vim task_2.c
-vim task_1.c
-vim task_2.c
-exit
-cd Khoroshaev
 cd informatics
 ls
 cd lab_5
@@ -497,4 +427,74 @@ list.h
 vim list.h
 vim list.h
 clear
+exit
+git init
+git add .
+git commit -m "Finally commit"
+git push
+git push origin master
+exit
+ls
+cd Khoroshaev
+ls
+cd informatics
+ls
+mkdir test
+ls
+cd test
+ls
+vim task.c
+ls
+ls
+cd Khoroshaev
+ls
+cd informatics
+ls
+cd test
+ls
+vim task.c
+clear
+ls
+gcc -c task.c
+gcc -o task task.o
+ls
+./task
+vim task.c
+clear
+gcc -c task.c
+ls
+gcc -o task task.o
+ls
+./task
+./task
+vim task.c
+clear
+gcc -c task.c
+ls
+gcc -i task task.o
+ls
+gcc -o task task.o
+ls
+./task
+./task
+./task
+clear
+ls
+ls
+cd Khoroshaev
+ls
+cd informatics
+ls
+cd lab_ 6
+ls
+cd lab_6
+ls
+celar
+cd ..
+clear
+ls
+cd lab_3
+s
+ls
+./task
 exit

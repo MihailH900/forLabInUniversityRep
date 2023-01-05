@@ -37,8 +37,6 @@ int main()
 		printf("'%s'\n Time - %lf\n", ans, elapsed);
 		free(ans);
 		free(str);
-		//free(ptr);
-		//free(copyStr);
 		ans = NULL;
 		str = NULL;
 		str = readline("input string that starts with a character other than a space: ");
@@ -49,7 +47,7 @@ int main()
 	return 0;
 }
 
-char* transform(char* str, char** ptr)
+char* transform(char* str)
 {
 	if (strlen(str) == 0)
 	{
