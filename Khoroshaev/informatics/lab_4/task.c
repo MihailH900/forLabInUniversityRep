@@ -12,7 +12,7 @@
 	#include <readline/readline.h>
 #endif
 
-char* transform(char* str, char** ptr);
+char* transform(char* str);
 int getAnsSize(const char* str, int size);
 void addWord(char* ans, char* word, int c);
 
@@ -24,7 +24,7 @@ int main()
 	{
 		char* ptr = NULL;
 		clock_t start = clock();
-		char* ans = transform(str, &ptr);
+		char* ans = transform(str);
 		clock_t stop = clock();
 		double elapsed = (double) (stop-start)*1000.0/CLOCKS_PER_SEC;
 
@@ -73,6 +73,10 @@ char* transform(char* str)
 	int c = 0;
 	
 	char* word = strtok(str, " \t");
+	if (word == NULL)
+	{
+		return ans;
+	}
 	c++;
 	
 	addWord(ans, word, c);

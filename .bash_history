@@ -1,117 +1,3 @@
-cd informatics
-ls
-cd lab_5
-ls
-vim task_2.c
-clear
-gcc -c task_2.c
-vim task.c
-rm task.c
-vim task_2.c
-clear
-gcc -c task_2.c
-vim task_2.c
-clear
-gcc -c task_2.c
-vim task_2.c
-clear
-gcc -c task_2.c
-vim task_2.c
-clear
-gcc -c task_2.c
-vim task_2.c
-cleare
-clear
-gcc -c task_2.c
-vim task_2.c
-clear
-gcc -c task_2.c
-gcc -o task_2 task_2.o car.o file_processing.o sort.o
-ls
-valgrind ./task_2 -f numb -s 2 -r 0 
-ls
-vim task_2.c
-./task_2 -f numb -s 2 -r 0 1 10
-vim task_2.c
-clear
-valgrind ./task_2 -f numb -s 2 -r 0 1 10
-clear
-./task_2 -f numb -s 2 -r 0 1 10
-valgrind ./task_2 -f numb -s 2 -r 0 1 10
-./task_2 -f numb -s 2 -r 0 1 10
-vim task_2.c
-ls
-gcc -c car.c
-gcc -c file_processing.c
-gcc -c sort.c
-gcc -c task_2.c
-gcc -o task_2 task_2.o car.o file_processing.o sort.o
-./task_2 -f numb -s 2 -r 0 10 1
-valgrind ./task_2 -f numb -s 2 -r 0 10 1
-valgrind ./task_2 -f numb -s 2 -r 0 10 2
-./task_2 -f numb -s 2 -r 0 10 2
-./task_2 -f numb -s 2 -r 0 10 10
-./task_2 -f numb -s 2 -r 0 1 10
-vim task_2.c
-clear
-./task_2 -f numb -s 2 -r 0 1 1
-./task_2 -f numb -s 2 -r 0 1 2
-vim task_2.c
-gcc -c task_2.c
-gcc -o task_2 task_2.o car.o file_processing.o sort.o
-./task_2 -f numb -s 2 -r 0 1 2
-vim task_2.c
-clear
-gcc -c task_2.c
-gcc -o task_2 task_2.o car.o file_processing.o sort.o
-./task_2 -f numb -s 2 -r 0 1 2
-vim task_2.c
-gcc -c task_2.c
-gcc -o task_2 task_2.o car.o file_processing.o sort.o
-./task_2 -f numb -s 2 -r 0 1 2
-vim task_2.c
-clear
-gcc -c task_2.c
-gcc -o task_2 task_2.o car.o file_processing.o sort.o
-./task_2 -f numb -s 2 -r 0 1 2
-vim task_2.c
-vim task_2.c
-gcc -c task_2.c
-gcc -o task_2 task_2.o car.o file_processing.o sort.o
-./task_2 -f numb -s 2 -r 0 1 2
-vim task_2.c
-clear
-gcc -c task_2.c
-gcc -o task_2 task_2.o car.o file_processing.o sort.o
-./task_2 -f numb -s 2 -r 0 1 2
-vim task_2.c
-clear
-gcc -c task_2.c
-gcc -o task_2 task_2.o car.o file_processing.o sort.o
-ls
-cd Khoroshaev
-cd informatics
-cd lab_5
-ls
-./task_2 -f numb -s 2 -r 0 1 2
-./task_2 -f numb -s 2 -r 0 1 2
-./task_2 -f numb -s 2 -r 0 1 2
-./task_2 -f numb -s 2 -r 0 1 2
-./task_2 -f numb -s 1 -r 0 1 2
-./task_2 -f numb -s 1 -r 0 1 2
-./task_2 -f numb -s 1 -r 0 1 2
-./task_2 -f numb -s 1 -r 0 1 2
-./task_2 -f numb -s 3 -r 0 1 2
-./task_2 -f numb -s 3 -r 0 1 2
-./task_2 -f numb -s 3 -r 0 1 2
-clear
-ls
-vim car.c
-vim car.h
-ls
-vim file_processing.c
-vim file_processing.c
-vim file_processing.h
 ls
 vim sort.c
 vim task_1.c
@@ -497,4 +383,118 @@ cd lab_3
 s
 ls
 ./task
+exit
+ls
+cd Khoroshaev
+ls
+cd informatics
+ls
+cd lab_4
+ls
+vim task.c
+clear
+cd ..
+c d..
+cd ..
+cd ..
+ls
+git init
+git add .
+git commit -m "code upd"
+git push origin master
+exit
+cd Khoroshaev
+cd informatics
+cd lab_4
+ls
+./task
+exit
+ls
+cd Khoroshaev
+ls
+cd informatics
+ls
+cd lab_4
+ls
+gcc -c my_string.c
+ls
+gcc -c task.c
+vim task.c
+clear
+gcc -c task.c
+vim task.c
+cleae
+gcc -c task.c
+ls
+gcc -DFLAG=0 -o task task.o -lreadline
+ls
+./task
+clear
+gcc -DFLAG=0 -o task task.o -lreadline
+./task
+vim task.c
+clear
+gcc -c task.c
+gcc -DFLAG=0 -o task task.o -lreadline
+./task
+clear
+gcc -DFLAG=0 -o task task.o -lreadline
+./task
+gcc -DFLAG=1 -o task task.o my_string.o
+./task
+./task
+exit
+ls
+cd Khoroshaev
+ls
+cd informatics
+ls
+cd lab_%
+cd lab_5
+ls
+vim file_processing.c
+ls
+vim in
+vim file_processing.c
+clear
+ls
+gcc -c file_processing.c
+gcc -o task_1 task_1.o sort.o car.o file_processing.o
+ls
+./task_1 -f numb -s 1 -r 0 in out
+vim out
+./task_1 -f numb -s 1 -r 0 in out
+vim out
+vim in
+vim in
+./task_1 -f numb -s 2 -r 0 in out
+./task_1 -f numb -s 3 -r 0 in out
+vim in
+./task_1 -f numb -s 3 -r 0 in out
+vim in
+vim out
+clear
+./task_1 -f numb -s 1 -r 0 in out
+vim out
+vim out
+./task_1 -f numb -s 2 -r 0 in out [A
+./task_1 -f numb -s 2 -r 0 in out
+./task_1 -f numb -s 3 -r 0 in out
+vim in
+vim sort.c
+clear
+gcc -c sort.c
+vim sort.c
+gcc -c sort.c
+gcc -o task_1 task_1.o sort.o car.o file_processing.o
+./task_1 -f numb -s 1 -r 0 in out
+vim sort.c
+clear
+gcc -c sort.c
+gcc -o task_1 task_1.o sort.o car.o file_processing.o
+./task_1 -f numb -s 1 -r 0 in out
+vim sort.c
+clear
+vim task_1.c
+vim sort.c
 exit

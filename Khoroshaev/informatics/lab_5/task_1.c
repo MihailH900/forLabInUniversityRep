@@ -124,10 +124,10 @@ int main(int argc, char* argv[])
 
 	(*sort)(cars, size, sizeof(Car), *cmp);
 
-	for (int i = 0; i < size; i++)
-	{
-		printf("s_%d: %s %s %lf\n", i, (cars+i)->model, (cars+i)->fullName, (cars+i)->numb);
-	}
+	//for (int i = 0; i < size; i++)
+	//{
+	//	printf("s_%d: %s %s %lf\n", i, (cars+i)->model, (cars+i)->fullName, (cars+i)->numb);
+	//}
 	writeInFile(cars, size, out);
 	
 	for (int i = 0; i < size; i++)

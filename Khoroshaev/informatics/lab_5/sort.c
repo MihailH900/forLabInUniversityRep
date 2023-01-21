@@ -5,7 +5,7 @@
 void shekerSort(void* arr, size_t size, size_t sizeOfElem, int(*cmp)(const void*, const void*))
 {
 	long unsigned int left = 0, right = size - 1;
-	short c = 0;
+	short c = 1;
 	while ((left < right) && c > 0)
 	{
 		c = 0;

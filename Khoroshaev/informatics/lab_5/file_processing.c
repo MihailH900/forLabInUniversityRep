@@ -14,19 +14,43 @@ Car* getArr(int* size, const char* in)
 	}
 
 	Car* cars = NULL;
-	int c = 0, len = 0;
-	fseek(f, 0, SEEK_END);
-	len = ftell(f);
-	fseek(f, 0, SEEK_SET);
+	int c = 0;
 
-	while (ftell(f) < len-1)
+	char* model = freadline(f);
+
+	if (model == NULL)
 	{
-		char* model = freadline(f);
-		char* fullName = freadline(f);
-		double numb;
-		int res = fscanf(f, "%lf", &numb);
+		return NULL;
+	}
 
-		if (strlen(model) <= 16 && res == 1 && numb >= 0)
+	char* fullName = freadline(f);
+	if (fullName == NULL)
+	{
+		return NULL;
+	}
+
+	double numb;
+	short res = fscanf(f, "%lf", &numb);
+
+	while (res != -1)
+	{
+		short flag = 0;
+		for (int i = 0; i < strlen(model); i++)
+		{
+			if (model[i] != 45 && model[i] != 32)
+			{
+				if (model[i] < 65 || model[i] > 90)
+				{
+					if (model[i] < 97 || model[i] > 122)
+					{
+						flag = 1;
+						break;
+					}
+				}
+			}
+		}
+
+		if (strlen(model) <= 16 && res == 1 && numb >= 0 && flag == 0)
 		{
 			cars = (Car*) realloc(cars, (c+1)*sizeof(Car));
 			if (cars == NULL)
@@ -47,10 +71,25 @@ Car* getArr(int* size, const char* in)
 			cars[c].numb = numb;
 			c++;
 		}
-		fseek(f, 1, SEEK_CUR);
+		fscanf(f, "%*c");
 
 		free(model);
 		free(fullName);
+
+		
+		model = freadline(f);
+		if (model == NULL)
+		{
+			break;
+		}
+
+		fullName = freadline(f);
+		if (fullName == NULL)
+		{
+			break;
+		}
+
+		res = fscanf(f, "%lf", &numb);
 	}
 
 	*size = c;
